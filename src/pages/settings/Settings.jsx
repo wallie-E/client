@@ -12,7 +12,7 @@ export default function Settings() {
   const [password, setPassword] = useState("");
   const [success, setSuccess] = useState(false);
   
-  const PF = "http://localhost:5000/images/";
+  const PF = "http://106.14.40.253:5000/images/";
   const handleSubmit = async (e) => {
     e.preventDefault();
     dispatch({type:"UPDATE_START"});

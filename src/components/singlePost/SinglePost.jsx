@@ -10,7 +10,7 @@ export default function SinglePost() {
   const { user } = useContext(Context);
   const path = location.pathname.split('/')[2];
   const [post, setPost] = useState({});
-  const PF = "http://localhost:5000/images/";
+  const PF = "http://106.14.40.253:5000/images/";
   // 编辑
   const [title, setTitie] = useState("");
   const [desc, setDesc] = useState("");
