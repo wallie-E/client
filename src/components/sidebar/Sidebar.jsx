@@ -19,7 +19,7 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">陈锋琪的个人网站</span>
         <img
-          src="http://localhost:5000/images/self.jpeg"
+          src="http://106.14.40.253:5000/images/self.jpeg"
           alt=""
         />
       </div>
