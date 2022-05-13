@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://127.0.0.1:5000/api/"
+  "proxy": "http://106.14.40.253:5000/api/"
 }
